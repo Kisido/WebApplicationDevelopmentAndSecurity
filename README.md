@@ -1,1 +1,1 @@
-# WebApplicationDevelopmentAndSecurity
+Дан массив из оценок студентов. Посчитать количество оценок ниже 4.
